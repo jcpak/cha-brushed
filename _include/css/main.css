@@ -1003,12 +1003,12 @@ nav#menu #menu-nav li a:hover {
    Twitter Feed
 ================================================== */
 
-#twitter-feed {
+#food {
 	padding: 100px 0 90px;
 	text-align: center;	
 }
 
-#twitter-feed .follow {
+#food .follow {
 	position: absolute;
 	bottom: 30px;
 	left: 50%;
